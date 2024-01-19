@@ -112,11 +112,18 @@
     .blog_wrapper .card .blog-content{
         margin:0;
     }
+    
+       .banner_wrapper .animate-img .aimg1{
+        left:-9.345rem;
+        
+       }
+    
 
 }
 @media (max-width:360px){
 .about_wrapper .about-animate{
     width:6.875rem;
+    left:-2.3452rem
 }
 .about_wrapper .card{
     padding:1.25rem .3125rem;
